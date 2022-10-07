@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="hold_user_thumbnail">Hold user thumbnail</string>
+    <string name="communication_error">communication error</string>
+</resources>
